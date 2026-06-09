@@ -1,0 +1,4 @@
+data split: https://www.kaggle.com/code/phanhongdng/datasplit?scriptVersionId=318881129
+resnet18: https://www.kaggle.com/code/phanhongdng/brainage
+densenet161: https://www.kaggle.com/code/duyquangvo/btlyte#Experiment-Checklist-&-Summary
+brainrotvit:https://www.kaggle.com/code/ngwkhai/brainage-federated-learning-with-brainrotvit

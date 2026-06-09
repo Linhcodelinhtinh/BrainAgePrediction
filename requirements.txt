@@ -1,7 +1,25 @@
+# Core scientific computing
 numpy>=1.22.0
 pandas>=1.4.0
+scipy>=1.8.0
+
+# Deep learning & transformers
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+peft>=0.4.0
+
+# Federated Learning
+flwr>=1.4.0
+
+# Neuroimaging & Preprocessing
+antspyx>=0.3.8
+nibabel>=3.2.0
+
+# Visualization & Evaluation
 scikit-learn>=1.0.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
-nibabel>=3.2.0
-scipy>=1.8.0
+
+# Tool for skull stripping (Install separately via pip from github if needed):
+# pip install git+https://github.com/MIC-DKFZ/HD-BET#egg=HD-BET
